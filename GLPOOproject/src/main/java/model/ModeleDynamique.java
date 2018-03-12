@@ -31,7 +31,7 @@ public class ModeleDynamique extends AbstractTableModel {
 	}
 
 	public int getColumnCount() { // retourne le nombre de colonnes
-		return header.length;
+		return header.length;.
 	}
 
 	public int getRowCount() { // retourne le nombre de lignes
